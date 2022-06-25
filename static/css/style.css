@@ -1,0 +1,39 @@
+body{ /*set the background color of a page */
+    color:black; /*Set the text-color */
+    background: white;  /*Set the background color for the webpage*/
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold
+}
+
+.jumbotron{
+    background-image: url("/static/image/bg2.jpg");
+    background-size: 100% 100%;
+    color:white;
+    text-align: center;
+}
+
+#bar{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+}
+
+.well {
+    background-color: rgba(248, 206, 181, 0.943);
+}
+
+/* .well {
+    background-color: rgba(58, 153, 115, 0.662);
+} */
+
+.panel-heading{
+    background-color: rgba(58, 153, 115, 0.662)!important;
+    color:black
+}
+
+#bubble{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+}
