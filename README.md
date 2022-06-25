@@ -1,7 +1,5 @@
 # Data visualization with JavaScript, Plotly, HTML, CSS and Bootstrap
 
-## Overview
-
 Roza is a biological researcher in a prominent microbiology laboratory.<br/>
 She wants to document unknown bacterias that can synthesis proteins that taste like beef. <br/>
 Her lab has partenerd with Improbable beef, a food startup to research candidates species.<br/>
@@ -11,6 +9,11 @@ bacterial species that colonize their belly button. Each person identity is anon
 were assigned an ID number.</br>
 We will implement an interactive dashboard to participants, and fellow researchers can access.</br>
 The participants will be able to look for their results using their ID number.
+
+## Overview
+
+The task was to display 3 different graphs and a selector that allow the users to select an ID and see the results for that ID. <br/>
+Four functions were created, a function to initiate the graphs, a function that reacts to the change of an ID, a function to display the "Demographic information", and a function to build the graphs.<br/>
 
 ### Information to understand the graphs
 
