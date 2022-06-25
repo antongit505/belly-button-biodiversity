@@ -20,5 +20,4 @@ OTU stands for Operational Taxonomic Unit, and here it means species or bacteria
 * The sample_values array contains the corresponding species name for each bacterial ID number.  <br/>
 Some bacterial species have different ID numbers, but are clumped together under the same otu_label.
 
-
-
+## To view the webpage clic this link <a href="https://antongit505.github.io/belly-button-biodiversity/">Belly Button </a> 
