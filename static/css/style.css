@@ -23,10 +23,6 @@ body{ /*set the background color of a page */
     background-color: rgba(248, 206, 181, 0.943);
 }
 
-/* .well {
-    background-color: rgba(58, 153, 115, 0.662);
-} */
-
 .panel-heading{
     background-color: rgba(58, 153, 115, 0.662)!important;
     color:black
@@ -36,4 +32,8 @@ body{ /*set the background color of a page */
     font-family: 'Kdam Thmor Pro', sans-serif;
     font-family: 'Roboto Mono', monospace;
     font-weight: bold;
+}
+
+#graph-text{
+    padding: 300px 50px;
 }

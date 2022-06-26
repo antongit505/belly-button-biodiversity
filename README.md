@@ -13,7 +13,9 @@ The participants will be able to look for their results using their ID number.
 ## Overview
 
 The task was to display 3 different graphs and a selector that allow the users to select an ID and see the results for that ID. <br/>
-Four functions were created, a function to initiate the graphs, a function that reacts to the change of an ID, a function to display the "Demographic information", and a function to build the graphs.<br/>
+D3 was used to import the data from the json file, four functions were created, a function to initiate the graphs, a function that reacts to the change of an ID, a function to display the "Demographic information", and a function to build the graphs with the support of plotly.<br/>
+Finally a CSS file and HTML were created to display and give format to the website.
+
 
 ### Information to understand the graphs
 
@@ -23,4 +25,4 @@ OTU stands for Operational Taxonomic Unit, and here it means species or bacteria
 * The sample_values array contains the corresponding species name for each bacterial ID number.  <br/>
 Some bacterial species have different ID numbers, but are clumped together under the same otu_label.
 
-## To view the webpage clic this link <a href="https://antongit505.github.io/belly-button-biodiversity/">Belly Button </a> 
+## To view the webpage clic this link <a href="https://antongit505.github.io/belly-button-biodiversity/"> Belly Button </a> 
